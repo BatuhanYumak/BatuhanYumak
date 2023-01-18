@@ -28,7 +28,7 @@
 
   - :zap: I like to play sports, gaming and football in my free time.
 
-  - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-omerulanuluu-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/batuhan-yumak-246ba7225/)
+  - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-BatuhanYumak-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/batuhan-yumak-246ba7225/)
   
 ---
 
@@ -48,10 +48,9 @@
  ---
 
 ### :fire: My Stats :
- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Omer575&theme=highcontrast&mode=weekly)](https://git.io/streak-stats)
+ [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=BatuhanYumak&theme=highcontrast&mode=weekly)](https://git.io/streak-stats)
   
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Omer575&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **Omer575/Omer575** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
