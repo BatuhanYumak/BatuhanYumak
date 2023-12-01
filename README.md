@@ -45,7 +45,6 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" title="Docker" alt="Docker" width="40" height="40" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" title="Django" alt="Django" width="40" height="40"  />
-    ![image](https://github.com/BatuhanYumak/BatuhanYumak/assets/102596050/e946e092-90cf-4f43-9ef7-3bf507a21bf3)
 
 
 
